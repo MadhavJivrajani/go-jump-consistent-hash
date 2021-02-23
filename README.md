@@ -15,6 +15,8 @@ go get github.com/MadhavJivrajani/go-jump-consistent-hash
 
 ## Example:
 ```go
+package main
+
 import (
     "fmt"
     jch "github.com/MadhavJivrajani/go-jump-consistent-hash"
