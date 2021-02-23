@@ -28,7 +28,7 @@ func main() {
     for _, ele := range stream {
         // calculate the bucket number of the key
         // should be in range [0, 6)
-        err := process(Hash(ele, numBuckets))
+        err := process(jch.Hash(ele, numBuckets))
         if err != nil {
             panic(err)
         }
