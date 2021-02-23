@@ -3,6 +3,11 @@
 This is a Golang implementation of a *A Fast, Minimal Memory, Consistent Hash Algorithm* called *The Jump Consistent Algorithm*.
 Ref: https://arxiv.org/pdf/1406.2294.pdf
 
+## Using the package
+```
+go get github.com/MadhavJivrajani/go-jump-consistent-hash
+```
+
 ## Example:
 ```go
 import (
