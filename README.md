@@ -1,5 +1,10 @@
 # Jump Consistent Hashing
 
+<p align="center">
+    <img src="https://raw.githubusercontent.com/ashleymcnamara/gophers/master/GOPHER_ROCKS.png" width="300" height="300">
+</p>
+
+
 This is a Golang implementation of a *A Fast, Minimal Memory, Consistent Hash Algorithm* called *The Jump Consistent Algorithm*.
 Ref: https://arxiv.org/pdf/1406.2294.pdf
 
